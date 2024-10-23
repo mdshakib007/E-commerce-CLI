@@ -1,0 +1,1 @@
+# This is just a simple CLI OOP E-commerce project
